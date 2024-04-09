@@ -10,5 +10,3 @@ This is suppose to completely revamp the Traders World website from the awful ex
 ```<h1>Testing 1 2 3 <h1>```
 
 
-
-

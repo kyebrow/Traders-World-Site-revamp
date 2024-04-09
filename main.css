@@ -1,0 +1,112 @@
+header {
+   font-family: Jost;
+   background: url(images/TRADERS2.jpg);
+   padding: 50px;
+   text-align: center;
+   
+}
+
+nav {
+
+}
+
+header h1 {
+   font-size: 750%;
+   color: yellow;
+   text-shadow: #FC0 1px 0 10px;
+   text-transform: uppercase;
+
+}
+
+header p {
+   font-size: 400%;
+   color: blue;
+   text-transform: uppercase;
+   text-shadow: #FC0 1px 0 10px;
+   font-weight: bold;
+}
+
+nav {
+   text-transform: uppercase;
+   background-color: yellow;
+   
+}
+
+nav ul {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   margin: 0;
+   padding: 0;
+}
+
+nav li {
+   padding: 1rem;
+   list-style-type: none;
+
+}
+
+nav a {
+   padding: 1rem 3rem;
+   text-decoration: none;
+   color: black;
+}
+
+nav a:hover {
+   background-color: blue;
+   color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aside.drivetime {
+   padding: 1em;
+   font-size: 170%;
+   margin-top: 20px;
+   margin-bottom: 20px;
+   margin-left: 40px;
+   margin-right: 40px;
+   border: black;
+   border-radius: 25px;
+}
+
+span.day {
+   color: cornflowerblue;
+   font-family: Jost;
+   font-size: 200%;
+   text-transform: uppercase;
+   font-weight: normal;
+   
+
+}
+
+aside {
+   text-align: center;
+   
+}
+
+aside h2 {
+   font-size: 200%;
+   padding: 100px;
+   font-family: Jost;
+   font-weight: bold;
+   text-transform: uppercase;
+   color: red;
+}
+
+aside.p {
+
+}
+
+
